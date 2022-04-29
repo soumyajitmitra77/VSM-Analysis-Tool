@@ -1,8 +1,0 @@
-name: Test_Binder
-dependencies:
-    - python=3
-    - pandas 
-    - io
-    - tkinter
-    - matplotlib
-    - numpy
