@@ -8,4 +8,4 @@ Use the link to download the input xlsx file:
 https://github.com/soumyajitmitra77/VSM-Analysis-Tool.git
 
 The following links are for the paper published on 'Value Stream Mapping of Stakeholder Impacts from Rising Prosumers' that uses this tool to perform the case studies:
-[![IEEE]](https://ieeexplore.ieee.org/document/9960439)
+[!](https://ieeexplore.ieee.org/document/9960439)
