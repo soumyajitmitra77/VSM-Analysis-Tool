@@ -14,7 +14,7 @@ The emergence of distributed energy resources like solar PV and batteries enable
 
 The methodology is as follows:
 
- ![Flowchart](./Figures/VSM_Flowchart.png)
+<img src="./Figures/VSM_Flowchart.png" width="500" height="300">
 
 This code implements a generalizable VSM methodology to quantify the economic impacts of changes in the energy system on key stakeholders. It can compare an existing base case to alternative future scenarios.
 
