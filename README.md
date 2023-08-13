@@ -5,6 +5,7 @@ This repository contains code to perform a value stream mapping (VSM) analysis o
 It implements the methodology proposed in the paper "Value Stream Mapping of Stakeholder Impacts from Rising Prosumers":
 
 [IEEE](https://ieeexplore.ieee.org/document/9960439)
+
 [ResearchGate](https://www.researchgate.net/publication/365835174_Value_Stream_Mapping_of_Stakeholder_Impacts_from_Rising_Prosumers)
 
 ## Description
@@ -12,6 +13,8 @@ It implements the methodology proposed in the paper "Value Stream Mapping of Sta
 The emergence of distributed energy resources like solar PV and batteries enables consumers to become prosumers - both producing and consuming electricity. However, the impacts of rising prosumerism on industry stakeholders have not been well studied.
 
 The methodology is as follows:
+
+ ![Flowchart](./Figures/VSM_Flowchart.png)
 
 This code implements a generalizable VSM methodology to quantify the economic impacts of changes in the energy system on key stakeholders. It can compare an existing base case to alternative future scenarios.
 
