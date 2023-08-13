@@ -16,13 +16,21 @@ The methodology is as follows:
 
 <img src="./Figures/VSM_Flowchart.png" width="500" height="800">
 
-This code implements a generalizable VSM methodology to quantify the economic impacts of changes in the energy system on key stakeholders. It can compare an existing base case to alternative future scenarios.
+The output is an analysis of how the change affects different stakeholders.
+
+## Usage
+
+The main file is Value Stream Mapping Analysis Tool.ipynb. It contains key functions to run a VSM analysis.
+
+To use:
+
+1. Download the 'VSM_Input_File.xlsx' and populate it.
+2. Run run_full_analysis to execute the VSM analysis
+3. Results and visualizations will be displayed
+
+Functions can also be called individually as needed.
+
+Feel free to contact me on LinkedIn if you have any other questions!
 
 Follow the binder link to run the tool in your browser:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soumyajitmitra77/VSM-Analysis-Tool.git/main)
-
-Use the link to download the input xlsx file: 
-https://github.com/soumyajitmitra77/VSM-Analysis-Tool.git
-
-The following links are for the paper published on 'Value Stream Mapping of Stakeholder Impacts from Rising Prosumers' that uses this tool to perform the case studies:
- / 
